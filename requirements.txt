@@ -1,0 +1,10 @@
+Flask==0.10.1
+Jinja2==2.8
+MarkupSafe==0.23
+Werkzeug==0.10.4
+itsdangerous==0.24
+langid==1.1.5
+nltk==3.0.4
+numpy==1.9.2
+textblob==0.9.1
+textblob-de==0.4.2
